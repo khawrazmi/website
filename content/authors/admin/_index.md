@@ -14,13 +14,13 @@ organizations:
   url: https://www.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in various topics on the intersection of optimization, networks systems, and probability theory.
+bio: I am interested in various topics on the intersection of optimization, network systems, and probability theory.
 
 # Interests to show in About widget
 interests:
 - Optimization and distributed optimization
 - Dynamics over networks
-- Probability, statistics, and learning
+- Probability, prediction, and learning
 
 # Education to show in About widget
 education:
