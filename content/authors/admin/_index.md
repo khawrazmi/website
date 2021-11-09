@@ -62,10 +62,6 @@ email: "btouri@ucsd.edu"
 highlight_name: true
 ---
 
-I am an Associate Professor with the [Electrical and Computer Engineering Department](http://ece.ucsd.edu){:target="_blank"} at the [University of California San Diego](http://www.ucsd.edu){:target="_blank"}. My research interest is in the broad area of systems and controls. In particular, I am interested in various theoretical aspects of networked control systems including: 
-* applied probability theory, 
-* dynamics over random networks,
-* distributed computation and optimization, and
-* population dynamics and game theory.
+I am an Associate Professor with the Electrical and Computer Engineering Department at the University of California San Diego. My research interest is in the broad area of systems and controls. In particular, I am interested in various theoretical aspects of optimization and networked control systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
