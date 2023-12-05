@@ -44,7 +44,7 @@ const styles = `
 }
 
 .markdown-body a {
-  background-color: transparent;
+  background-color: black;
   color: #0969da;
   text-decoration: none;
 }
