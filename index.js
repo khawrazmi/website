@@ -657,7 +657,7 @@ const styles = `
 
 .markdown-body table tr {
   background-color: #ffffff;
-  color: white;
+  color:  #0969DA;
   border-top: 1px solid hsla(210,18%,87%,1);
 }
 
