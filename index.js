@@ -663,6 +663,7 @@ const styles = `
 
 .markdown-body table tr:nth-child(2n) {
   background-color: #f6f8fa;
+  color:  #ffffff;
 }
 
 .markdown-body table img {
