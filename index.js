@@ -646,6 +646,7 @@ const styles = `
 
 .markdown-body table th {
   font-weight: 600;
+  color: #ebedf0;
 }
 
 .markdown-body table th,
