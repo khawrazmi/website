@@ -79,7 +79,7 @@ const styles = `
 
 .markdown-body mark {
   background-color: #ff0;
-  color: #24292f;
+  color: #EBEBEC;
 }
 
 .markdown-body small {
