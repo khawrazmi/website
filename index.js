@@ -653,6 +653,7 @@ const styles = `
 .markdown-body table td {
   padding: 6px 13px;
   border: 1px solid #d0d7de;
+  color: #ebedf0;
 }
 
 .markdown-body table tr {
@@ -663,7 +664,7 @@ const styles = `
 
 .markdown-body table tr:nth-child(2n) {
   background-color: #000000;
-  color:  #000000;
+  color:  #ffffff;
 }
 
 .markdown-body table img {
