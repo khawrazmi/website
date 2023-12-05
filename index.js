@@ -106,7 +106,7 @@ const styles = `
   border-style: none;
   max-width: 100%;
   box-sizing: content-box;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 .markdown-body code,
@@ -663,7 +663,7 @@ const styles = `
 
 .markdown-body table tr:nth-child(2n) {
   background-color: #000000;
-  color:  #ffffff;
+  color:  #000000;
 }
 
 .markdown-body table img {
