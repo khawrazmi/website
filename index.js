@@ -202,6 +202,7 @@ const styles = `
   border-spacing: 0;
   border-collapse: collapse;
   display: block;
+  color: #ebedf0;
   width: max-content;
   max-width: 100%;
   overflow: auto;
