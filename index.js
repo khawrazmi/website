@@ -5,7 +5,7 @@ const styles = `
   -webkit-text-size-adjust: 100%;
   margin: 0;
   color: #ebedf0;
-  background-color: #000000;
+  background-color: #ffffff;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 16px;
   line-height: 1.5;
@@ -106,7 +106,7 @@ const styles = `
   border-style: none;
   max-width: 100%;
   box-sizing: content-box;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 .markdown-body code,
